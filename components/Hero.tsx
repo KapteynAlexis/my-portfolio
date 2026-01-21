@@ -17,13 +17,13 @@ export default function Hero() {
       <div className="mt-8 flex gap-4">
         <a
           href="#projects"
-          className="px-6 py-3 bg-black text-white rounded-md text-sm font-medium"
+          className="px-6 py-3 bg-black text-white rounded-md text-sm font-medium hover:bg-[#be0aff] hover:text-white border-2 border-black"
         >
           View Projects
         </a>
         <a
           href="#contact"
-          className="px-6 py-3 border border-gray-300 rounded-md text-sm font-medium"
+          className="px-6 py-3 border border-gray-300 rounded-md text-sm font-medium hover:bg-[#a1ff0a] hover:text-black "
         >
           Contact Me
         </a>

@@ -47,7 +47,7 @@ export default function Projects() {
           key={project.title}
           href={project.link}
           target="_blank"
-          className="group border border-gray-200 rounded-xl p-6 transition-all hover:-translate-y-1 hover:shadow-lg"
+          className="group border border-gray-200 rounded-xl p-6 transition-all hover:-translate-y-1 hover:shadow-lg hover:bg-[#0aefff] hover:text-black "
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.4 }}

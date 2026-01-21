@@ -23,7 +23,7 @@ export default function CTA() {
       <a
         href="https://wa.me/2348033770253"
         target="_blank"
-        className="inline-block mt-10 bg-[#040440] text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition"
+        className="inline-block mt-10 bg-[#040440] text-white px-8 py-4 rounded-full font-semibold transition hover:bg-white hover:text-black border-2 border-black" rel="noopener noreferrer"
       >
         Let’s Talk
       </a>
