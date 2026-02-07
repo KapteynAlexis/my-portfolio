@@ -1,7 +1,7 @@
 import AnimatedText from "./AnimatedText";
 export default function Hero() {
   return (
-    <section className="min-h-[80vh] flex flex-col justify-center">
+    <section className="min-h-[80vh] flex flex-col justify-center bg-white/50 mt-30 p-6 rounded-lg shadow-lg">
       <AnimatedText
         text="Hi, I’m Alex."
         className="text-4xl md:text-6xl font-bold leading-tight"
