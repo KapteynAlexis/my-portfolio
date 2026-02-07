@@ -12,7 +12,7 @@ const projects = [
     tag: "Team Project",
   },
   {
-    title: "WorldClass Tech Academy",
+    title: "World Class Tech Academy",
     description:
       "A responsive landing page built with Next.js and Tailwind CSS for a tech training brand.",
     link: "https://worldclass-tech-academy.vercel.app/",
