@@ -19,11 +19,11 @@ const projects = [
     tag: "Client Project",
   },
   {
-    title: "StreamLite UI",
+    title: "IPC SAS",
     description:
-      "A Netflix-inspired streaming interface focused on layout structure and modern UI patterns.",
-    link: "#",
-    tag: "Personal Project",
+      "A staff attendance management system built with Next.js and Tailwind CSS, designed to streamline attendance tracking and reporting for organizations.",
+    link: "https://ipcbas.vercel.app/",
+    tag: "Client Project",
   },
 ];
 
